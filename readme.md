@@ -3,7 +3,7 @@ Greetings, I am Shawn. I am a quantitative analyst - a former Ph.D student in Ec
  * Econometrics
  * Data analysis and modeling
  * Numerical analysis and Optimization
- * Stochastic modeling
+ * Stochastic modeling and Simulation
 
 ## Tools 
  * Language: Python, Matlab, SQL, R
