@@ -11,3 +11,4 @@ Greetings, I am Shawn. I am a quantitative analyst - a former Ph.D student in Ec
  * Visualization: Tableau
 
 ## Projects
+My past projects can be found here.
