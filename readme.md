@@ -14,4 +14,4 @@ Greetings, I am Shawn. I am an econometrician and quantitative analyst - a forme
  * Visualization: Tableau
 
 ## Projects
-My past projects can be found here.
+My past projects can be found [here](https://github.com/jsy5484/projects)
