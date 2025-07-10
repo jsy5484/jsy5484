@@ -7,6 +7,9 @@ Greetings, I am Shawn. I am an econometrician and quantitative analyst - a forme
  * Data analysis and modeling
  * Numerical analysis and Optimization
  * Stochastic modeling and Simulation
+   
+In addition, I gained advanced knowledge in macroeconomics and asset markets through Ph.D.-level coursework and research. I have a deep interest in applying and developing AI and machine learning to unstructured and unconventional data to uncover insights and generate alpha.
+
 
 ## Tools 
  * Language: Python, Matlab, SQL, R
