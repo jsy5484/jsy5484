@@ -11,7 +11,7 @@ Greetings, I am Shawn. I am an econometrician and quantitative analyst - a forme
 ## Tools 
  * Language: Python, Matlab, SQL, R
  * Database: MySQL, Stata
- * Visualization: Tableau
+ * Visualization: PowerBI, GGplot2
 
 ## Projects
 My past projects can be found [here](https://github.com/jsy5484/jsy5484/blob/main/projects.md)
