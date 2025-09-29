@@ -16,5 +16,3 @@ I gained advanced knowledge in macroeconomics and asset markets through Ph.D.-le
  * Database: MySQL, Stata
  * Visualization: PowerBI, GGplot2
 
-## Projects
-My past projects can be found [here](https://github.com/jsy5484/jsy5484/blob/main/projects.md)
